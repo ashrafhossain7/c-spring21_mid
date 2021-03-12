@@ -1,0 +1,5 @@
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/lab3/lab3/obj/Debug/net5.0/lab3.csprojAssemblyReference.cache
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/lab3/lab3/obj/Debug/net5.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/lab3/lab3/obj/Debug/net5.0/lab3.AssemblyInfoInputs.cache
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/lab3/lab3/obj/Debug/net5.0/lab3.AssemblyInfo.cs
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/lab3/lab3/obj/Debug/net5.0/lab3.csproj.CoreCompileInputs.cache

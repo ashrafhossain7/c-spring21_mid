@@ -1,0 +1,15 @@
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/bin/Debug/net5.0/lab2_pro3.deps.json
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/bin/Debug/net5.0/lab2_pro3.runtimeconfig.json
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/bin/Debug/net5.0/lab2_pro3.runtimeconfig.dev.json
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/bin/Debug/net5.0/lab2_pro3.dll
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/bin/Debug/net5.0/ref/lab2_pro3.dll
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/bin/Debug/net5.0/lab2_pro3.pdb
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.csprojAssemblyReference.cache
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.AssemblyInfoInputs.cache
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.AssemblyInfo.cs
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.csproj.CoreCompileInputs.cache
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.dll
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/ref/lab2_pro3.dll
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.pdb
+/Users/ashrafhossain/Projects/lab2_pro3/lab2_pro3/obj/Debug/net5.0/lab2_pro3.genruntimeconfig.cache
