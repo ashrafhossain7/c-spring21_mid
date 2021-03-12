@@ -1,0 +1,5 @@
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/classPerformance/classPerformance/obj/Debug/net5.0/classPerformance.csprojAssemblyReference.cache
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/classPerformance/classPerformance/obj/Debug/net5.0/classPerformance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/classPerformance/classPerformance/obj/Debug/net5.0/classPerformance.AssemblyInfoInputs.cache
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/classPerformance/classPerformance/obj/Debug/net5.0/classPerformance.AssemblyInfo.cs
+/Users/ashrafhossain/User file/study/visual_studio/connected with git/classPerformance/classPerformance/obj/Debug/net5.0/classPerformance.csproj.CoreCompileInputs.cache
